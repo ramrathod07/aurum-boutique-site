@@ -11,7 +11,7 @@ const ProductDetail = () => {
   const product = {
     id: id,
     name: "Diamond Solitaire Ring",
-    price: "$2,499",
+    price: "₹2,09,999",
     description: "Exquisite 18K gold ring featuring a brilliant cut diamond. This timeless piece embodies elegance and sophistication, perfect for engagements or special occasions.",
     material: "18K White Gold",
     gemstone: "1.5ct Diamond (VS1 Clarity, F Color)",

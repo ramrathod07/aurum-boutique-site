@@ -13,25 +13,25 @@ const Home = () => {
     {
       id: 1,
       name: "Diamond Solitaire Ring",
-      price: "$2,499",
+      price: "₹2,09,999",
       image: productRing,
     },
     {
       id: 2,
       name: "Pearl Elegance Necklace",
-      price: "$1,899",
+      price: "₹1,59,999",
       image: productNecklace,
     },
     {
       id: 3,
       name: "Gold Drop Earrings",
-      price: "$1,299",
+      price: "₹1,09,999",
       image: productEarrings,
     },
     {
       id: 4,
       name: "Gemstone Bangle",
-      price: "$3,299",
+      price: "₹2,74,999",
       image: productBracelet,
     },
   ];

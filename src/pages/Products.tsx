@@ -12,7 +12,7 @@ const Products = () => {
     {
       id: 1,
       name: "Diamond Solitaire Ring",
-      price: "$2,499",
+      price: "₹2,09,999",
       description: "18K gold ring featuring a brilliant cut diamond",
       image: productRing,
       category: "Rings",
@@ -20,7 +20,7 @@ const Products = () => {
     {
       id: 2,
       name: "Pearl Elegance Necklace",
-      price: "$1,899",
+      price: "₹1,59,999",
       description: "Classic pearl strand with gold accents",
       image: productNecklace,
       category: "Necklaces",
@@ -28,7 +28,7 @@ const Products = () => {
     {
       id: 3,
       name: "Gold Drop Earrings",
-      price: "$1,299",
+      price: "₹1,09,999",
       description: "Ornate gold earrings with diamond details",
       image: productEarrings,
       category: "Earrings",
@@ -36,7 +36,7 @@ const Products = () => {
     {
       id: 4,
       name: "Gemstone Bangle",
-      price: "$3,299",
+      price: "₹2,74,999",
       description: "Luxury bangle with multi-colored gemstones",
       image: productBracelet,
       category: "Bracelets",
@@ -44,7 +44,7 @@ const Products = () => {
     {
       id: 5,
       name: "Eternity Band",
-      price: "$1,799",
+      price: "₹1,49,999",
       description: "Continuous diamonds set in platinum",
       image: productRing,
       category: "Rings",
@@ -52,7 +52,7 @@ const Products = () => {
     {
       id: 6,
       name: "Sapphire Pendant",
-      price: "$2,199",
+      price: "₹1,84,999",
       description: "Blue sapphire surrounded by diamonds",
       image: productNecklace,
       category: "Necklaces",
@@ -60,7 +60,7 @@ const Products = () => {
     {
       id: 7,
       name: "Hoop Earrings",
-      price: "$899",
+      price: "₹74,999",
       description: "Classic gold hoops with diamond pave",
       image: productEarrings,
       category: "Earrings",
@@ -68,7 +68,7 @@ const Products = () => {
     {
       id: 8,
       name: "Tennis Bracelet",
-      price: "$2,899",
+      price: "₹2,41,999",
       description: "Timeless diamond tennis bracelet",
       image: productBracelet,
       category: "Bracelets",

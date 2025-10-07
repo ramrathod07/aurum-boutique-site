@@ -22,6 +22,7 @@ export default {
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
+          hover: "hsl(var(--primary-hover))",
         },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
@@ -46,6 +47,11 @@ export default {
         card: {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
+        },
+        gold: {
+          light: "hsl(var(--gold-light))",
+          DEFAULT: "hsl(var(--primary))",
+          dark: "hsl(var(--gold-dark))",
         },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
@@ -84,6 +90,17 @@ export default {
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
+        "fade-in": "fade-in 0.8s ease-in",
+        "slide-up": "slide-up 0.6s ease-out",
+        "scale-in": "scale-in 0.5s ease-out",
+      },
+      fontFamily: {
+        playfair: ['Playfair Display', 'serif'],
+        poppins: ['Poppins', 'sans-serif'],
+      },
+      boxShadow: {
+        luxury: '0 10px 40px -10px hsl(var(--shadow-luxury) / 0.3)',
+        'luxury-lg': '0 20px 60px -15px hsl(var(--shadow-luxury) / 0.4)',
       },
     },
   },
